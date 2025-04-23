@@ -1,0 +1,4 @@
+order_id,product_id,customer_id,price_x,first_name,last_name,email,full_name,product_name,category,price_y
+1,101,1,50,Alice,Smith,alice@example.com,Alice Smith,Keyboard,Electronics,50
+2,102,2,150,Bob,Johnson,bob@example.com,Bob Johnson,Monitor,Electronics,150
+3,103,3,85,Charlie,Williams,charlie@example.com,Charlie Williams,Chair,Furniture,85
